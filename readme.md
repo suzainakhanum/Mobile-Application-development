@@ -4,14 +4,14 @@ This repository is created for learning and practicing Mobile Application Develo
 
 📌 About the Repository
   
-        - The goal of this repository is to:
+      - The goal of this repository is to:
           
-        - Understand mobile application fundamentals
+      - Understand mobile application fundamentals
           
-        - Practice UI design and navigation
+      - Practice UI design and navigation
           
-        - Learn project structure and development workflow
+      - Learn project structure and development workflow
           
-        - Build simple mobile applications for academic purposes
+      - Build simple mobile applications for academic purposes
           
-        - This repository may be updated regularly with new labs, features, and experiments.
+      - This repository may be updated regularly with new labs, features, and experiments.
