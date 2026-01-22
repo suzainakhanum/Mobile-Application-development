@@ -2,8 +2,7 @@
 
 This repository is created for learning and practicing Mobile Application Development concepts as part of academic coursework and hands-on experimentation. It contains examples, lab programs, and project files related to mobile app development.
 
-📌 About the Repository
-  
+📌 About the Repository : 
     - The goal of this repository is to:
           
     - Understand mobile application fundamentals
