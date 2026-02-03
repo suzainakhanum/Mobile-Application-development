@@ -1,9 +1,10 @@
-name: HTML CI
+name: CI
 
 on:
   push:
     branches: [ main, develop ]
   pull_request:
+    branches: [ main ]
 
 jobs:
   html-checks:
